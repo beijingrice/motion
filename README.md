@@ -1,2 +1,2 @@
 # motion
-A iOS/iPadOS Platform Rhythm Game
+An iOS/iPadOS Platform Rhythm Game
